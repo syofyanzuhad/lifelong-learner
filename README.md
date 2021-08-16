@@ -1,4 +1,4 @@
-# Lifong Learner
+# Lifelong Learner
 List of my learning project
 
 ## Dicoding
