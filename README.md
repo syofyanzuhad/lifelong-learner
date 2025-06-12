@@ -46,7 +46,7 @@ List of my learning project
 1. [attendance-android-codepolitan](https://github.com/syofyanzuhad/attendance-android-codepolitan)
 
 ## Game
-1. [katla](katla.syofyanzuhad.dev)
+1. [katla](https:////katla.syofyanzuhad.dev)
 
 # Gabut
 ## CSS
